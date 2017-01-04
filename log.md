@@ -4,10 +4,10 @@
 
 **Today's Progress**: Started Learning Android Application Development.
 
-**Thoughts:** I will update after finish todays's tasks.
+**Thoughts:** Learned Android Layout Design using XML. 
 
-**Link to work:** Single Screen App (will update after complete)
+**Link to work:** College Contacts - Layout Design (https://github.com/sujanth21/Day-1-College-Contacts)
 
 
-1. [Will update helpful resources](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Will update helpful resources](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Design inspiration for the app](https://au.pinterest.com/pin/263249540698212018/)
+2. [Free icons downloaded from here](https://www.iconfinder.com/)
