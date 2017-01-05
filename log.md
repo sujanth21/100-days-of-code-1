@@ -11,3 +11,9 @@
 
 1. [Design inspiration for the app](https://au.pinterest.com/pin/263249540698212018/)
 2. [Free icons downloaded from here](https://www.iconfinder.com/)
+
+### Day 2: January 05, 2017
+
+**Today's Progress**: Created new cricket score keeper app, Learned variable scope, method calls, onclick listener function
+
+**Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
