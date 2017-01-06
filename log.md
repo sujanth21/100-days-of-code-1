@@ -17,3 +17,9 @@
 **Today's Progress**: Created new cricket score keeper app, Learned variable scope, method calls, onclick listener function
 
 **Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
+
+### Day 3: January 65, 2017
+
+**Today's Progress**: Updated cricket score keeper app with new layout changes, Now the app has two teams
+
+**Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
