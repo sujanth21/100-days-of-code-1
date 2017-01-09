@@ -18,8 +18,14 @@
 
 **Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
 
-### Day 3: January 65, 2017
+### Day 3: January 06, 2017
 
 **Today's Progress**: Updated cricket score keeper app with new layout changes, Now the app has two teams
 
 **Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
+
+### Day 4: January 09, 2017
+
+** Today's progress**: Updated cricket score keeper app, changed theme color, learnt Intents and also completed all required functionalities for this app
+
+**Link to work**: Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
