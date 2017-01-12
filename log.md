@@ -35,3 +35,9 @@
 ** Today's progress**: Learnt about RadioGroups and RadioButton, Checkboxes and some other views. Created new quiz app.
 
 **Link to work**: Quiz App - (https://github.com/sujanth21/QuizApp)
+
+### Day 6: January 12, 2017
+
+** Today's Progress:** Implemented functions for RadioGroup, RadioButtons, CheckBoxes and EditText to check right answers
+
+**Link to work:** Quiz App - (https://github.com/sujanth21/QuizApp)
