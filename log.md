@@ -16,13 +16,13 @@
 
 **Today's Progress**: Created new cricket score keeper app, Learned variable scope, method calls, onclick listener function
 
-**Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
+**Link to work**: Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
 
 ### Day 3: January 06, 2017
 
 **Today's Progress**: Updated cricket score keeper app with new layout changes, Now the app has two teams
 
-**Link to work:** Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
+**Link to work**: Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
 
 ### Day 4: January 09, 2017
 
@@ -38,6 +38,6 @@
 
 ### Day 6: January 12, 2017
 
-** Today's Progress:** Implemented functions for RadioGroup, RadioButtons, CheckBoxes and EditText to check right answers
+** Today's Progress**: Implemented functions for RadioGroup, RadioButtons, CheckBoxes and EditText to check right answers
 
-**Link to work:** Quiz App - (https://github.com/sujanth21/QuizApp)
+**Link to work**: Quiz App - (https://github.com/sujanth21/QuizApp)
