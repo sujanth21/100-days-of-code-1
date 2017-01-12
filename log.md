@@ -26,18 +26,18 @@
 
 ### Day 4: January 09, 2017
 
-** Today's progress**: Updated cricket score keeper app, changed theme color, learnt Intents and also completed all required functionalities for this app
+**Today's progress**: Updated cricket score keeper app, changed theme color, learnt Intents and also completed all required functionalities for this app
 
 **Link to work**: Cricket Score Keeper App - (https://github.com/sujanth21/cricket_scorekeeper_app)
 
 ### Day 5: January 10, 2017
 
-** Today's progress**: Learnt about RadioGroups and RadioButton, Checkboxes and some other views. Created new quiz app.
+**Today's progress**: Learnt about RadioGroups and RadioButton, Checkboxes and some other views. Created new quiz app.
 
 **Link to work**: Quiz App - (https://github.com/sujanth21/QuizApp)
 
 ### Day 6: January 12, 2017
 
-** Today's Progress**: Implemented functions for RadioGroup, RadioButtons, CheckBoxes and EditText to check right answers
+**Today's Progress**: Implemented functions for RadioGroup, RadioButtons, CheckBoxes and EditText to check right answers
 
 **Link to work**: Quiz App - (https://github.com/sujanth21/QuizApp)
